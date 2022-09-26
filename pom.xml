@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>malibu-web-app</artifactId>
+	<artifactId>Bentley-web-app</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.4</version>
 	
-	<name>malibu-web-app</name>
+	<name>Bentley-web-app</name>
 
 	<description>Maven Web Project for Java Project</description>
 	<organization>
@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>malibu-web-app</finalName>
+		<finalName>Bentley-web-app</finalName>
 		
 		<plugins>
 			<plugin>
@@ -127,7 +127,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/malibu-web-app</contextPath>
+						<contextPath>/Bentley-web-app</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
@@ -140,7 +140,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
-					<wtpContextName>malibu-web-app</wtpContextName>
+					<wtpContextName>Bentley-web-app</wtpContextName>
 				</configuration>
 			</plugin>
 			
