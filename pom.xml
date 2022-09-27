@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>Bentley-web-app</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.5</version>
+	<version>0.0.4</version>
 	
 	<name>Bentley-web-app</name>
 
