@@ -3,15 +3,15 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>Bentley-web-app</artifactId>
+	<artifactId>Malibu-web-app</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.5</version>
 	
 	<name>Bentley-web-app</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Malibu Web Project for Java Project</description>
 	<organization>
-		<name>Bentley app</name>
+		<name>Malibu app</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
